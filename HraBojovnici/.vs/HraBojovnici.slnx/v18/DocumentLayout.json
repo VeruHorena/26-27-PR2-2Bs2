@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2bs2\\hrabojovnici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2bs2\\hrabojovnici\\bojovnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|solutionrelative:bojovnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2bs2\\hrabojovnici\\postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|solutionrelative:postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2bs2\\hrabojovnici\\kouzelnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480E156C-AA17-4A0F-ACA0-9C8E96C6AC95}|HraBojovnici.csproj|solutionrelative:kouzelnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kouzelnik.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Kouzelnik.cs",
+              "RelativeDocumentMoniker": "Kouzelnik.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Kouzelnik.cs",
+              "RelativeToolTip": "Kouzelnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:48:48.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bojovnik.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Bojovnik.cs",
+              "RelativeDocumentMoniker": "Bojovnik.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Bojovnik.cs",
+              "RelativeToolTip": "Bojovnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:48:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Postava.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Postava.cs",
+              "RelativeDocumentMoniker": "Postava.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Postava.cs",
+              "RelativeToolTip": "Postava.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:48:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2Bs2\\HraBojovnici\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:47:50.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
