@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\bin\Debug\net10.0\AbstraktniMetody.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\bin\Debug\net10.0\AbstraktniMetody.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\bin\Debug\net10.0\AbstraktniMetody.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\bin\Debug\net10.0\AbstraktniMetody.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\bin\Debug\net10.0\AbstraktniMetody.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\refint\AbstraktniMetody.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\AbstraktniMetody.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\ref\AbstraktniMetody.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2Bs2\AbstraktniMetody\obj\Debug\net10.0\Abstrakt.51293FEE.Up2Date
